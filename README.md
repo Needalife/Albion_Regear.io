@@ -1,8 +1,8 @@
 # Project Overview:  
 
-Front-End development:--
--> Objectives: Hiển thị một bảng data về những player chết để giúp a Sony regear  --
--> Programming Language: For god sakes please use HTML, CSS, and JavaScript. Not f*cking React :D  --
+Front-End development:<br\>
+-> Objectives: Hiển thị một bảng data về những player chết để giúp a Sony regear <br\>
+-> Programming Language: For god sakes please use HTML, CSS, and JavaScript. Not f*cking React :D  <br\>
 
 Back-End development:--
 -> Objectives: Store the data scrap from albion battle API then push it to front--
