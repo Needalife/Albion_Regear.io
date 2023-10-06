@@ -12,7 +12,7 @@ Back-End development:
 
 -> Programming Language: Python (everyone knows how to code with python lol), SQL
 
--> Database: MySQL (might have to use cloud services)
+-> Database: Google Cloud
 
 # Task:
 
