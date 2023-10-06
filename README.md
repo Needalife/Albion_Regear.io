@@ -8,7 +8,7 @@ Front-End development:
 
 Back-End development:
 
--> Objectives: Store the data scrap from albion battle API then push it to front
+-> Objectives: Website backend stuff
 
 -> Programming Language: Python (everyone knows how to code with python lol), SQL
 
@@ -26,8 +26,8 @@ Front-End:
 Back-End:
 
 1. Set up API routes: create routes in the Python back-end to handle requests from the front-end
-2. Connect to Albion battle API: write a python code to make requests to Albion battle API (status code == 200 :> )
+2. Connect to discord api and retreive message from people that need to be regear (done)
 3. Parse and Proccess Data: process data reveived from Alion API then extract relevant information
-4. Database setup: use MySQL pretty please :')
+4. Database setup: use Google cloud
 5. Store data in the database: use Python to insert processed data into database
 6. Responses: Send appropriate responses back to the front-end, confirming successful data retrieval and storage.
